@@ -5,7 +5,7 @@ class forLoop
    { 
       for( int i=0; i<5; i++ )
       {
-         System.out.println("hellow world");
+         System.out.println("vivek kumar");
       }
    }
 }
